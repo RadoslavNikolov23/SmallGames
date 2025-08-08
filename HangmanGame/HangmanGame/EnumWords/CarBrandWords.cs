@@ -8,7 +8,7 @@ namespace HangmanGame.EnumWords
 {
     enum CarBrandWords
     {
-        acura,
+        Acura,
         AlfaRomeo,
         AstonMartin,
         Audi,
